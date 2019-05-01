@@ -3,4 +3,4 @@ Just another repository
 
 Hi everyone!
 
-Artem here. I Like C#, .NET, ASP.NET, JavaScript (that's what I'm made of!).
+My name is Artem. I learn C# and .NET Framework. In the near future I am going to learn ASP.NET, JavaScript with HTML&CSS.
